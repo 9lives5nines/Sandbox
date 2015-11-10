@@ -1,7 +1,7 @@
 //Written by Diana Arrieta
 import java.util.Scanner;
 import java.util.LinkedList;
-class TI
+class TC
 {
 //-------------------------------------------------------------------
 	public static void main (String [] args) throws Exception
@@ -42,7 +42,7 @@ class TI
 		list.add(in);
 	}
 //-------------------------------------------------------------------
-}//end class TI
+}//end class TC
 class Time
 {
 	int h,m,s,ho,mo,h2,m2;
